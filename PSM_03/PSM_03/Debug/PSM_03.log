@@ -1,0 +1,4 @@
+﻿  Tak03_s19204.cpp
+C:\Users\Asus\Desktop\PSM_03\PSM_03\Tak03_s19204.cpp(19,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\PSM_03\PSM_03\Tak03_s19204.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+  PSM_03.vcxproj -> C:\Users\Asus\Desktop\PSM_03\Debug\PSM_03.exe
