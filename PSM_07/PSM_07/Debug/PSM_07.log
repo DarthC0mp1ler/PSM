@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\PJATK\PSM\PSM_07\PSM_07\Source.cpp(17,12): warning C4018: '<': signed/unsigned mismatch
+D:\PJATK\PSM\PSM_07\PSM_07\Source.cpp(27,12): warning C4018: '<': signed/unsigned mismatch
+D:\PJATK\PSM\PSM_07\PSM_07\Source.cpp(38,12): warning C4018: '<': signed/unsigned mismatch
+D:\PJATK\PSM\PSM_07\PSM_07\Source.cpp(48,12): warning C4018: '<': signed/unsigned mismatch
+D:\PJATK\PSM\PSM_07\PSM_07\Source.cpp(59,12): warning C4018: '<': signed/unsigned mismatch
+D:\PJATK\PSM\PSM_07\PSM_07\Source.cpp(59,43): warning C4018: '>': signed/unsigned mismatch
+D:\PJATK\PSM\PSM_07\PSM_07\Source.cpp(94,12): warning C4018: '<': signed/unsigned mismatch
+D:\PJATK\PSM\PSM_07\PSM_07\Source.cpp(113,12): warning C4018: '<': signed/unsigned mismatch
+  PSM_07.vcxproj -> D:\PJATK\PSM\PSM_07\Debug\PSM_07.exe
