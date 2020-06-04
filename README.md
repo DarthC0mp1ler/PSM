@@ -51,4 +51,4 @@
  ![](PSM_09/Cellular_automata_demonstration.png)
 
 ## (10)Monte-Carlo method
-      not implemented yet
+      Calculating square of integral from 0 to pi of sin(x)
